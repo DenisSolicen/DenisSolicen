@@ -1,16 +1,23 @@
-### Hi there 👋
+### Приветсвую, всяк входящий!
 
-<!--
-**DenisSolicen/DenisSolicen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я:
+* ✒️— свободный переводчик с Английского (C1)
+* 🧑‍💻— C# и Dot.Net разработчик
+* 🧑‍— Unity Technical Artist
+* 🖥️— графический дизайнер старой школы
 
-Here are some ideas to get you started:
+Основатель обьединения переводчиков [«Команды Солицена»](https://github.com/SolicenTEAM)  — в основном мы обитаем на нашем [Discord](https://discord.gg/ZJ3SQpV) сервере. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Еще немного о себе:
+* 🌕 — люблю смотреть на Луну
+* 🎻 — пытаюсь научиться играть на скрипке
+* ✍️ — иногда пишу для себя
+
+
+#### Связаться со мной: 
+* — DenisSolicen@yandex.ru
+* — [t.me/solicen](https://t.me/solicen)
+* — Discord (Denis Solicen#2733)
+
+Связь с командой:
+* — почта команды: solicenteam@gmail.com
