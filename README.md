@@ -18,10 +18,13 @@
 * 🎤 — иногда пою для души
 
 #### Связаться со мной: 
-* — [VKontakte](https://vk.com/solicen) • [X / Twitter](https://twitter.com/DenisSolicen)
-* — DenisSolicen@yandex.ru
 * — [t.me/solicen](https://t.me/solicen)
 * — Discord (Denis Solicen#2733) `@solicen`
+* — [VKontakte](https://vk.com/solicen) • [X / Twitter](https://twitter.com/DenisSolicen)
+* — DenisSolicen@yandex.ru
+
+#### Основное прибежище:
+* — [«Команда Солицена»](https://discord.gg/ZJ3SQpV)
 
 Связь с Командой:
 * — почта команды: solicenteam@gmail.com
