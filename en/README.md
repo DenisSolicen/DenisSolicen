@@ -1,5 +1,7 @@
 ### Greetings, everyone! 
+[**Русский**](/README.md) | [**Englsih**](./en/README.md)
 
+---
 [Solicen.ru](https://solicen.ru) • [OpenDocs](https://solicenteam.github.io/OpenDocs/)
 
 I am an owl, namely:
