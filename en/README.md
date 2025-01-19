@@ -26,6 +26,7 @@ any information for me is just a text, a fact and nothing more.
 * 🎤 — sometimes I sing for the soul
 
 #### Contact me:
+* — [Solicen Community](https://discord.gg/3wjcQzy7zz)
 * — [t.me/solicen ](https://t.me/solicen )
 * — Discord (Denis Solicen#2733) `@solicen`
 * — [VKontakte](https://vk.com/solicen) • [X / Twitter](https://twitter.com/DenisSolicen)
